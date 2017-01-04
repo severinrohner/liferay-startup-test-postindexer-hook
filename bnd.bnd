@@ -1,0 +1,3 @@
+Bundle-Name: com.clavisit.poc.startuptest.postindexer.hook
+Bundle-SymbolicName: liferay-startup-test-postindexer-hook
+Bundle-Version: 1.0.0
